@@ -35,3 +35,6 @@
 *	Via PowerShell (administrateur)
 
 	```powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/YJBeetle/cc19patch/2019/run.ps1')"```
+
+# 2020 and more(maybe)
+https://github.com/YJBeetle/ccpatch
